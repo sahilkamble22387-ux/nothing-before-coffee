@@ -481,8 +481,7 @@ export default function Reservations() {
                     Address
                   </h4>
                   <p className="font-[family-name:var(--font-inter)] text-[#D4B48A] text-sm leading-relaxed">
-                    Blue Tokai Coffee Roasters, Kalyani Nagar, Pune,
-                    Maharashtra 411014
+                    S/03, Ground Floor, Solitaire Business Hub, Pune Nagar Road, Kalyani Nagar, Pune, Maharashtra 411014
                   </p>
                 </div>
               </div>
@@ -514,10 +513,10 @@ export default function Reservations() {
                   </h4>
                   <div className="space-y-0.5">
                     <p className="font-[family-name:var(--font-inter)] text-[#D4B48A] text-sm">
-                      Mon–Fri: 7:00 AM – 10:30 PM
+                      Mon – Sun: 7:00 AM – 11:00 PM
                     </p>
-                    <p className="font-[family-name:var(--font-inter)] text-[#D4B48A] text-sm">
-                      Sat–Sun: 7:00 AM – 11:00 PM
+                    <p className="font-[family-name:var(--font-inter)] text-[#D4B48A]/60 text-xs">
+                      Open all 7 days
                     </p>
                   </div>
                 </div>
@@ -532,8 +531,7 @@ export default function Reservations() {
                     Parking
                   </h4>
                   <p className="font-[family-name:var(--font-inter)] text-[#D4B48A] text-sm">
-                    Free parking available at the complex. Valet parking on
-                    weekends.
+                    Free parking available at Solitaire Business Hub complex. Cash, UPI, and cards accepted.
                   </p>
                 </div>
               </div>

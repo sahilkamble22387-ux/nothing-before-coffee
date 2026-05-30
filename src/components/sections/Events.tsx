@@ -28,38 +28,38 @@ interface EventItem {
 const events: EventItem[] = [
   {
     icon: Coffee,
-    title: 'Cupping Sessions',
-    date: 'Every Saturday, 11:00 AM',
+    title: 'Coffee Cupping Sessions',
+    date: 'Select Weekends — Check Website',
     description:
-      'Discover the nuances of specialty coffee through guided cupping sessions. Learn to identify flavor notes, aromas, and processing methods.',
-    badge: 'Weekly',
+      'Discover the nuances of specialty coffee through guided cupping sessions. Learn to identify tasting notes, body, acidity, and processing methods that define each origin.',
+    badge: 'Recurring',
     badgeColor: 'copper',
   },
   {
     icon: GraduationCap,
     title: 'Brewing Workshops',
-    date: 'First Sunday of Every Month, 3:00 PM',
+    date: 'By Reservation — Groups & Individuals',
     description:
-      'Master the art of pour-over, AeroPress, and other manual brewing methods with our expert baristas. Take home a brewing kit.',
-    badge: 'Monthly',
+      'Master the art of pour-over, AeroPress, and other manual brewing methods with our expert baristas. Comprehensive look at extraction, grind size, and technique.',
+    badge: 'Workshop',
     badgeColor: 'forest',
   },
   {
     icon: Wine,
-    title: 'Coffee Tastings',
+    title: 'Coffee Tasting & Flights',
     date: 'By Reservation',
     description:
-      'Explore our seasonal single-origin collection with guided tastings. Perfect for groups and corporate events.',
+      'Explore our seasonal single-origin collection with guided tastings. Experience India\'s highest-scoring coffees and learn what makes each estate unique.',
     badge: 'By Appointment',
     badgeColor: 'copper',
   },
   {
     icon: Users,
-    title: 'Community Gatherings',
-    date: 'Last Friday of Every Month, 6:00 PM',
+    title: 'Community Events',
+    date: 'Follow @bluetokaicoffee for Updates',
     description:
-      'Connect with fellow coffee enthusiasts, share stories, and discover new favorites in our monthly community evenings.',
-    badge: 'Monthly',
+      'From post-run coffee meetups to anniversary celebrations and community gatherings — connect with fellow coffee enthusiasts and be part of the Blue Tokai family.',
+    badge: 'Social',
     badgeColor: 'forest',
   },
 ];

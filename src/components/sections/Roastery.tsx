@@ -15,7 +15,7 @@ const features = [
     icon: Search,
     title: "Bean Selection",
     description:
-      "We source only the top 1% of India's Arabica beans, selecting for flavor complexity and story.",
+      "We source only the finest 100% Arabica beans from over 80 estate partners across India, selecting for flavor complexity and story.",
   },
   {
     icon: Award,
@@ -26,10 +26,10 @@ const features = [
 ];
 
 const stats = [
-  { value: "12+", label: "Estate Partners" },
-  { value: "50+", label: "Roast Profiles" },
+  { value: "80+", label: "Estate Partners" },
+  { value: "13", label: "Years Roasting" },
   { value: "72hr", label: "Freshness Guarantee" },
-  { value: "100%", label: "Traceable" },
+  { value: "100%", label: "Arabica & Traceable" },
 ];
 
 export default function Roastery() {

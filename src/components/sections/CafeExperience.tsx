@@ -66,10 +66,10 @@ const features = [
 ];
 
 const quickInfo = [
-  { icon: Wifi, label: "Free Wi-Fi" },
-  { icon: Heart, label: "Pet Friendly" },
-  { icon: Plug, label: "Power Outlets" },
-  { icon: Car, label: "Ample Parking" },
+  { icon: Wifi, label: "Wi-Fi Available" },
+  { icon: Heart, label: "Work Friendly" },
+  { icon: Plug, label: "All Payments Accepted" },
+  { icon: Car, label: "Complex Parking" },
 ];
 
 export default function CafeExperience() {

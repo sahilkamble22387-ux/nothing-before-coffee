@@ -185,9 +185,9 @@ export default function Journey() {
               >
                 We work directly with coffee farms across the{" "}
                 <span className="text-[#3C2415] font-medium">Western Ghats</span>{" "}
-                — from Coorg and Chikmagalur to the Nilgiris and Araku Valley —
+                — from Attikan Estate in Coorg and Baarbara Estate in Chikmagalur to the Nilgiris and Araku Valley —
                 building relationships that go beyond transactions. Our sourcing
-                partnerships ensure farmers receive{" "}
+                partnerships with over <span className="text-[#3C2415] font-medium">80 estate partners</span> ensure farmers receive{" "}
                 <span className="text-[#3C2415] font-medium">fair premiums</span>{" "}
                 for quality, incentivising better agricultural practices and
                 sustainable livelihoods.

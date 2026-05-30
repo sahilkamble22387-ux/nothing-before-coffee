@@ -14,27 +14,27 @@ interface CategoryCard {
 const categories: CategoryCard[] = [
   {
     number: "01",
-    title: "Espresso Favorites",
+    title: "Espresso Based",
     image: "/images/espresso.png",
-    items: ["Classic Espresso", "Americano", "Doppio", "Espresso Con Panna"],
+    items: ["Espresso · ₹250", "Americano · ₹250", "Cappuccino · ₹280", "Latte · ₹290"],
   },
   {
     number: "02",
-    title: "Manual Brew Selection",
+    title: "Manual Brews",
     image: "/images/manual-brew.png",
-    items: ["V60 Pour Over", "AeroPress", "French Press", "Chemex"],
+    items: ["V60 Pour Over", "AeroPress", "Chemex", "French Press"],
   },
   {
     number: "03",
-    title: "Seasonal Single Origins",
+    title: "Single Estate Beans",
     image: "/images/single-origin.png",
-    items: ["Coorg Estate", "Chikmagalur Reserve", "Nilgiri Select", "Baba Budan"],
+    items: ["Attikan Estate · ₹700", "Sandalwood Estate · ₹750", "Vienna Roast · ₹650", "Silver Oak Blend · ₹700"],
   },
   {
     number: "04",
-    title: "Signature Beverages",
+    title: "Cold Brew & Iced",
     image: "/images/signature-bev.png",
-    items: ["Tokai Cold Brew", "Caramel Affogato", "Spiced Mocha", "Honeycomb Latte"],
+    items: ["Cold Brew · ₹205", "Iced Latte · ₹310", "Iced Cappuccino · ₹300", "Vienna Latte · ₹370"],
   },
 ];
 

@@ -90,7 +90,7 @@ export default function Footer() {
               >
                 <MapPin className="w-4 h-4 shrink-0" />
                 <span className="text-sm" style={{ fontFamily: "var(--font-inter)" }}>
-                  Kalyani Nagar, Pune, Maharashtra
+                  Solitaire Business Hub, Kalyani Nagar, Pune
                 </span>
                 <ExternalLink className="w-3 h-3 opacity-0 group-hover:opacity-100 transition-opacity" />
               </a>
