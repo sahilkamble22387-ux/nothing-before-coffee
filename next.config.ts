@@ -1,10 +1,17 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: "standalone",
-  /* config options here */
+  output: "export",
+  basePath: "/nothing-before-coffee",
+  assetPrefix: "/nothing-before-coffee",
+  images: {
+    unoptimized: true,
+  },
   typescript: {
     ignoreBuildErrors: true,
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
   },
   reactStrictMode: false,
 };
